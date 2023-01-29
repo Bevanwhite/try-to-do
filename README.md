@@ -15,4 +15,3 @@ git push -u origin main
 git remote add origin git@github.com:Bevanwhite/try-to-do.git
 git branch -M main
 git push -u origin main
-```
